@@ -11,7 +11,7 @@ const fs = require("fs");
 
 module.exports =
 <demo>
-    <scene width = { 1024 } height = { 768 } />
+    <scene width = { 1024 } height = { 1000 } />
 
     <recording.start filePath = "videos/video" />
 
